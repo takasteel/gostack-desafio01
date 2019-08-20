@@ -24,10 +24,10 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 [
   {
     id: "1",
-    title: 'Novo projeto',
-    tasks: ['Nova tarefa']
+    title: "Novo projeto",
+    tasks: ["Nova tarefa"]
   }
-]
+];
 ```
 
 ## Middlewares
